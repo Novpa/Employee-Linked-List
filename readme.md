@@ -1,5 +1,3 @@
-This is what you give me
-
 # Employee Data Management in Linked List
 
 ## Overview
