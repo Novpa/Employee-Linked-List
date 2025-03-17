@@ -69,7 +69,7 @@ gcc main.c -o main
 2. Execute the compiled program:
 
 ```bash
-./employee_data
+./main
 ```
 
 ## Example Output
