@@ -1,6 +1,6 @@
 This is what you give me
 
-# Employee Data Management System in C
+# Employee Data Management in Linked List
 
 ## Overview
 
