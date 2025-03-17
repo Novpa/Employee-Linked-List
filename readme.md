@@ -63,7 +63,7 @@ To run this program:
 1. Compile the C code:
 
 ```bash
-gcc employee_data.c -o employee_data
+gcc main.c -o main
 ```
 
 2. Execute the compiled program:
